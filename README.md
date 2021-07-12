@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kuldeep Jitendra Kumar Prajapati. 
 - 👀 I’m interested in Learning technologies.
 - 🌱 I’m currently learning in BE(Computer Engineering).Completed(Waiting For Result).
-- 💞️ I’m looking for Opportunities.
+- 💞️ I’m looking for an Opportunities.
 - 📫 You can reach me by sending a mail on : prajapatikuldeep52@gmail.com
 
 <!---
